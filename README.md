@@ -1,6 +1,6 @@
 # 🌍 Multilingual Language Translator App
 
-![App Screenshot](screenshot.png)
+![App Screenshot](assets/screenshot.png)
 
 A smart, interactive language translator built using Python and Streamlit.
 
@@ -17,7 +17,7 @@ A smart, interactive language translator built using Python and Streamlit.
 
 ## 🚀 Live Demo
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg )](https://your-app-name.streamlit.app/ )
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg )](https://language-translator-app-dt6mwv67zfst6loyg4vwbg.streamlit.app/)
 
 ## 🛠️ Tech Stack
 
